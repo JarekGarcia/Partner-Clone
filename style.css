@@ -1,0 +1,85 @@
+.title {
+    background-color: #1b2f45;
+    color: white;
+}
+
+.hero-img {
+    background-image: url(images/partner-clone.png);
+    height: 42rem;
+}
+
+.flex-end {
+    text-align: right;
+}
+
+.dark-blue {
+    background-color: #1b2f45;
+}
+
+.light-blue {
+    background-color: #56b8e6;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.justify-content-right {
+    justify-content: right;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.text-align-right {
+    text-align: right;
+}
+
+.no-pad {
+    padding: 0;
+}
+
+.no-marg {
+    margin: 0;
+}
+
+.back-trans {
+    background-color: rgba(0, 0, 0, 0.081);
+}
+
+.people-big {
+    min-height: 43rem;
+}
+
+.orange-text {
+    color: orange;
+}
+
+.weight-bold {
+    font-weight: bold;
+}
+
+.blue-text {
+    color: blue;
+}
+
+.red-text {
+    color: red;
+}
+
+.space-evenly {
+    justify-content: space-between;
+}
+
+.call-to-action-bg {
+    background-image: url(https://wallpapersmug.com/download/2560x1440/aa7e66/modern_architecture_building_tower.jpg);
+}
+
+.action-p {
+    padding: 10rem;
+}
